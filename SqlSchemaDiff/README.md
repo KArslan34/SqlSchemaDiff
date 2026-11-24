@@ -10,9 +10,8 @@ hedefi kaynakla eşitleyen, **tekrar çalıştırılabilir** bir güncelleme bet
 
 ## Çalıştırma
 1. Visual Studio 2022 ile `SqlSchemaDiff.csproj` dosyasını aç (.NET 8 SDK gerekir).
-2. NebulaUI paketi yerel feed'den gelir (`nuget.config` → `C:\Users\PC\source\LocalPackages`).
-3. F5 ile çalıştır.
-4. Kaynak ve hedef betiği seç (veya pencereye sürükle) → Karşılaştır (F5) →
+2. F5 ile çalıştır.
+3. Kaynak ve hedef betiği seç (veya pencereye sürükle) → Karşılaştır (F5) →
    farkları incele / işaretle → Script oluştur (Ctrl+G) → Kaydet (Ctrl+S).
 
 ## Neleri karşılaştırır
