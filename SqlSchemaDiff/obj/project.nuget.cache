@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BVTMoZ/W3go=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\SqlSchemaDiff\\SqlSchemaDiff.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\nebulaui\\0.14.0\\nebulaui.0.14.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\nebulaui.core\\0.14.0\\nebulaui.core.0.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
